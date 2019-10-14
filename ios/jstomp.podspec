@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'jstomp_ext'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A new Flutter plugin for stomp'
   s.description      = <<-DESC
 A new Flutter plugin for stomp
