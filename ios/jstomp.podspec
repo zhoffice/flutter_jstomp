@@ -2,8 +2,8 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'jstomp'
-  s.version          = '0.0.1'
+  s.name             = 'jstomp_ext'
+  s.version          = '1.0.0'
   s.summary          = 'A new Flutter plugin for stomp'
   s.description      = <<-DESC
 A new Flutter plugin for stomp
